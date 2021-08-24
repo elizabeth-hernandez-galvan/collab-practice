@@ -50,4 +50,7 @@ li{
 .navbar-custom {
     background-color: #eebafe;
     font-size: 20px;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
