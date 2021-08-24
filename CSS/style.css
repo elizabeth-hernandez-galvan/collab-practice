@@ -1,0 +1,53 @@
+
+.left{
+    background-image: url(https://img3.exportersindia.com/product_images/bc-full/2019/3/6231999/computer-software-developers-1552987824-4798303.jpg);
+    height: 80vh;
+   background-size: cover;
+   
+
+}
+
+.right{
+    background-image: url(https://previews.123rf.com/images/monsitj/monsitj1612/monsitj161200029/68782747-programming-code-abstract-technology-background-of-software-developer-and-computer-script.jpg);
+    background-size: cover;
+  
+
+}
+
+.footer-1 {
+    background-color: #364f8c;
+    border: 3px solid black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-top: 1em;
+    
+}
+
+.thumb-content{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    
+}
+.widget-title{
+    font-size: 1.2em;
+    margin: 1em;
+    color: #60e2fb;
+
+}
+
+a{
+    color: #eebafe;
+
+}
+a:hover{
+    color: white;
+}
+li{
+    list-style: none;
+}
+/* Modify the background color */
+.navbar-custom {
+    background-color: #eebafe;
+    font-size: 20px;
+}
