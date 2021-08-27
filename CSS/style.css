@@ -4,7 +4,6 @@
     height: 80vh;
    background-size: cover;
    
-
 }
 
 .right{
@@ -53,3 +52,29 @@ li{
     top: 0;
     width: 100%;
 }
+
+.bg-cover {
+    background-attachment: static;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-imgage{
+    background-image: url(https://img.wallpapersafari.com/desktop/1536/864/39/45/AGpcRt.jpeg);
+    background-size: cover;
+    height: 60vh;
+   }
+   h1{
+       color: white;
+       text-align: center;
+       text-shadow: 3px 3px black;
+   }
+   
+   p{
+       color: white;
+       text-shadow: 3px 3px black;
+       
+       
+       
+   }
