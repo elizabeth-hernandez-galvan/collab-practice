@@ -1,18 +1,20 @@
 
 .left{
-    background-image: url(https://img3.exportersindia.com/product_images/bc-full/2019/3/6231999/computer-software-developers-1552987824-4798303.jpg);
-    height: 80vh;
+    background-image: url(https://st3.depositphotos.com/1144687/15937/i/1600/depositphotos_159378690-stock-photo-abstract-pink-digital-human-profile.jpg);
+    height: 50vh;
    background-size: cover;
-   
+   border: 3px solid black;
 }
 
 .right{
-    background-image: url(https://previews.123rf.com/images/monsitj/monsitj1612/monsitj161200029/68782747-programming-code-abstract-technology-background-of-software-developer-and-computer-script.jpg);
+    background-image: url(https://www.einfochips.com/blog/wp-content/uploads/2019/09/a-blueprint-on-digital-transformation-services-featured.jpg);
     background-size: cover;
+    height: 50vh;
+    border: 3px solid black;
 }
 
 .footer-1 {
-    background-color: #364f8c;
+    background-color: #212529;
     border: 3px solid black;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
@@ -29,12 +31,12 @@
 .widget-title{
     font-size: 1.2em;
     margin: 1em;
-    color: #60e2fb;
+    color: #f7a560;
 
 }
 
 a{
-    color: #d76eec;
+    color: #ff3a98;
     
 
 }
@@ -46,13 +48,24 @@ li{
 }
 /* Modify the background color */
 .navbar-custom {
-    background-color: #eebafe;
+    background-color: #86004a;
     font-size: 20px;
     position: fixed;
     top: 0;
     width: 100%;
 }
+.nav-link{
+    color: white;
+}
+.navbar-custom img{
+    height: 60px;
+    border-radius: 50%;
+    background-color: black;
 
+}
+.nav-link:hover{
+    color: red;
+}
 .bg-cover {
     background-attachment: static;
     background-position: center;
@@ -61,7 +74,7 @@ li{
 }
 
 .bg-imgage{
-    background-image: url(https://img.wallpapersafari.com/desktop/1536/864/39/45/AGpcRt.jpeg);
+    background-image: url(https://cdn1.vectorstock.com/i/1000x1000/19/85/abstract-hi-tech-pink-background-in-perspective-vector-21011985.jpg);
     background-size: cover;
     height: 60vh;
    }
@@ -75,6 +88,11 @@ li{
        color: white;
        text-shadow: 3px 3px black;
        
-       
-       
-   }
+  }
+  .btn{
+      background-color:#9c1c63;
+      color: white;
+      
+  }
+
+   
